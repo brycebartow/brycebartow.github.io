@@ -40,8 +40,8 @@
       An analysis of potential NFL expansion landing places using economic and sports data.
     </p>
 
-    <!-- PROJECT LINK -->
   [NFL Expansion PDF](NFL-Expansion.pdf)
+  [DO File](NFL-Expansion-DO-FILE.pdf)
   </div>
 </section>
 

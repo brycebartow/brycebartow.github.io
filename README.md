@@ -1,73 +1,59 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>Bryce Bartow</title>
 
   <!-- Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <body class="bg-gray-100 font-[Inter] text-gray-800">
 
-<!-- HEADER (your name only) -->
-<header class="bg-white shadow p-6">
-  <h1 class="text-3xl font-bold text-red-600">Bryce Bartow</h1>
+<!-- HEADER -->
+<header class="bg-white shadow p-6 text-center">
+  <h1 class="text-4xl font-bold text-red-600">Bryce Bartow</h1>
 </header>
 
-<!-- HERO / INTRO -->
-<section class="bg-white text-center py-20 px-6">
-  <h2 class="text-4xl font-bold mb-4">
-    Economics Student With a Passion for Data Analyst
-  </h2>
-  <p class="max-w-2xl mx-auto text-lg text-gray-600 mb-6">
-    I’m interested in data analysis, sports analytics, and economic research. I build projects using data to explore trends, test ideas, and communicate insights clearly.
+<!-- NAV -->
+<nav class="bg-white shadow mt-2">
+  <div class="max-w-5xl mx-auto flex justify-center gap-10 p-4 font-semibold">
+    <a href="#about" class="hover:text-red-600">About Me</a>
+    <a href="#projects" class="hover:text-red-600">Projects</a>
+  </div>
+</nav>
+
+<!-- ABOUT ME -->
+<section id="about" class="max-w-5xl mx-auto mt-10 p-6 bg-white rounded-xl shadow border-l-4 border-red-600">
+  <h2 class="text-2xl font-bold mb-4">About Me</h2>
+  <p class="text-gray-700">
+    I am an economics student at the University of Houston. I’m interested in data analysis, sports analytics, and economic research. I build projects using data to explore trends, test ideas, and communicate insights clearly.
   </p>
-  <button class="bg-red-600 text-white px-6 py-3 rounded-lg font-semibold shadow hover:bg-red-700">
-    View My Work
-  </button>
 </section>
 
-<!-- MAIN CONTENT -->
-<div class="max-w-5xl mx-auto mt-10 p-6">
-
-  <!-- ABOUT -->
-  <div class="bg-white rounded-xl shadow p-6 mb-10 border-l-4 border-red-600">
-    <h2 class="text-2xl font-bold mb-3">About Me</h2>
-    <p class="text-gray-700">
-      I focus on applying economic theory to real-world data. My interests include macroeconomics, 
-      labor markets, and financial systems. I enjoy working with datasets, running regressions, 
-      and building models to better understand economic outcomes.
-    </p>
-  </div>
-
-  <!-- PROJECTS -->
+<!-- PROJECTS -->
+<section id="projects" class="max-w-5xl mx-auto mt-10 p-6">
   <h2 class="text-2xl font-bold mb-6">Projects</h2>
 
-  <div class="bg-white rounded-xl shadow p-6 mb-6 border-l-4 border-red-600">
-    <h3 class="text-xl font-bold text-red-600">
-      NBA Market Size vs Team Valuation
-    </h3>
-    <p class="italic text-gray-500 mb-2">
-      Data analysis project
+  <div class="bg-white rounded-xl shadow p-6 border-l-4 border-red-600">
+    <h3 class="text-xl font-bold text-red-600">NFL Expansion</h3>
+    <p class="text-gray-600 italic mb-3">
+      Data Analysis Project
     </p>
-    <p class="text-gray-700">
-      Explores how market size, performance, and other factors impact team valuation using regression analysis.
+    <p class="text-gray-700 mb-4">
+      An analysis of potential NFL expansion markets using economic and demographic data.
     </p>
-  </div>
 
-  <div class="bg-white rounded-xl shadow p-6 mb-6 border-l-4 border-red-600">
-    <h3 class="text-xl font-bold text-red-600">
-      Labor Market Policy Analysis
-    </h3>
-    <p class="italic text-gray-500 mb-2">
-      Economic modeling
-    </p>
-    <p class="text-gray-700">
-      Examines how tax policy changes influence labor supply and participation using theoretical models.
-    </p>
+    <!-- PROJECT LINK -->
+    <a href="your-link-here.pdf" target="_blank"
+       class="inline-block bg-red-600 text-white px-5 py-2 rounded-lg font-semibold hover:bg-red-700">
+       View Project
+    </a>
   </div>
-
-</div>
+</section>
 
 </body>
 </html>

@@ -17,11 +17,10 @@
 <!-- HERO / INTRO -->
 <section class="bg-white text-center py-20 px-6">
   <h2 class="text-4xl font-bold mb-4">
-    Economics Student & Data Analyst
+    Economics Student With a Passion for Data Analyst
   </h2>
   <p class="max-w-2xl mx-auto text-lg text-gray-600 mb-6">
-    I’m interested in economic research, data analysis, and understanding how markets behave. 
-    I build projects using data to explore trends, test ideas, and communicate insights clearly.
+    I’m interested in data analysis, sports analytics, and economic research. I build projects using data to explore trends, test ideas, and communicate insights clearly.
   </p>
   <button class="bg-red-600 text-white px-6 py-3 rounded-lg font-semibold shadow hover:bg-red-700">
     View My Work

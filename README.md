@@ -38,7 +38,7 @@
       Data Analysis Project
     </p>
     <p class="text-gray-700 mb-4">
-      An analysis of potential NFL expansion markets using economic and demographic data.
+      An analysis of potential NFL expansion landing places using economic and sports data.
     </p>
 
     <!-- PROJECT LINK -->

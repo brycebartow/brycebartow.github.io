@@ -35,7 +35,6 @@
   <div class="bg-white rounded-xl shadow p-6 border-l-4 border-red-600">
     <h3 class="text-xl font-bold text-red-600">NFL Expansion</h3>
     <p class="text-gray-600 italic mb-3">
-      Data Analysis Project
     </p>
     <p class="text-gray-700 mb-4">
       An analysis of potential NFL expansion landing places using economic and sports data.

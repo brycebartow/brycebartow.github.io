@@ -41,9 +41,7 @@
     </p>
 
     <!-- PROJECT LINK -->
-    <a href="NFL-Expansion.pdf" target="_blank"
-       class="inline-block bg-red-600 text-white px-5 py-2 rounded-lg font-semibold hover:bg-red-700">
-       View Project
+    NFL-Expansion.pdf
     </a>
   </div>
 </section>

@@ -17,8 +17,6 @@
 <!-- NAV -->
 <nav class="bg-white shadow mt-2">
   <div class="max-w-5xl mx-auto flex justify-center gap-10 p-4 font-semibold">
-    <a href="#about" class="hover:text-red-600">About Me</a>
-    <a href="#projects" class="hover:text-red-600">Projects</a>
   </div>
 </nav>
 

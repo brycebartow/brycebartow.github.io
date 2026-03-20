@@ -7,9 +7,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 
   <!-- Tailwind -->
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-
 <body class="bg-gray-100 font-[Inter] text-gray-800">
 
 <!-- HEADER -->

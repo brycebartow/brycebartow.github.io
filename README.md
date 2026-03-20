@@ -41,8 +41,7 @@
     </p>
 
     <!-- PROJECT LINK -->
-    NFL-Expansion.pdf
-    </a>
+  [NFL Expansion PDF](NFL-Expansion.pdf)
   </div>
 </section>
 
